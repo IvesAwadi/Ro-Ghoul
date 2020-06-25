@@ -64,7 +64,7 @@ local drop = tab:AddDropdown('Choose Mob', function(a)
     end
 end)
 drop:Add('All ( not Humans )')
---rop:Add('Eto Yoshimura')
+drop:Add('Eto Yoshimura')
 drop:Add('Investigator')
 drop:Add('Aogiri')
 local crum = 'cummmmmmmmmm'
